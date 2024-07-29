@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 package Abstraction;
 
 public class Non_Final_Class  {
@@ -6,3 +7,13 @@ public class Non_Final_Class  {
 
 	}
 }
+=======
+package Abstraction;
+
+public class Non_Final_Class  {
+
+	public void fun() {
+
+	}
+}
+>>>>>>> 9265cfa644a9e9f746adec26738ce8d105dde8ba

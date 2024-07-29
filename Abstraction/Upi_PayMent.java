@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 package Abstraction;
 
 public class Upi_PayMent extends Payment_Method{
@@ -23,4 +24,29 @@ public class Upi_PayMent extends Payment_Method{
 
 	
 
+=======
+package Abstraction;
+
+public class Upi_PayMent extends Payment_Method{
+
+	@Override
+	public void pay() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void viewBal() {
+		// TODO Auto-generated method stub
+		
+	}
+	
+	@Override
+	public void creditamount() {
+		
+	}
+
+	
+
+>>>>>>> 9265cfa644a9e9f746adec26738ce8d105dde8ba
 }
