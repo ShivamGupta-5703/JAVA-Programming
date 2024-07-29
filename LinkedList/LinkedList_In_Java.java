@@ -1,0 +1,45 @@
+<<<<<<< HEAD
+package LinkedList;
+import java.util.LinkedList;
+public class LinkedList_In_Java {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		LinkedList<Integer> ll = new LinkedList<>();
+		ll.add(12);
+		ll.add(4);
+		ll.add(34);
+		ll.add(56);
+		ll.add(0,6);
+		System.out.println(ll);
+		System.out.println(ll.size());
+		for(int i=0;i<ll.size();i++) {
+			System.out.println(ll.get(i));
+		}
+
+	}
+
+}
+=======
+package LinkedList;
+import java.util.LinkedList;
+public class LinkedList_In_Java {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		LinkedList<Integer> ll = new LinkedList<>();
+		ll.add(12);
+		ll.add(4);
+		ll.add(34);
+		ll.add(56);
+		ll.add(0,6);
+		System.out.println(ll);
+		System.out.println(ll.size());
+		for(int i=0;i<ll.size();i++) {
+			System.out.println(ll.get(i));
+		}
+
+	}
+
+}
+>>>>>>> 9265cfa644a9e9f746adec26738ce8d105dde8ba
