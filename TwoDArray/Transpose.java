@@ -2,6 +2,11 @@ package TwoDArray;
 
 import java.util.Scanner;
 
+// Rotate Array:
+// 90 = transpose + reverse row
+// 180 = reverse row + reverse column
+// 270 = transpose + reverse col
+
 public class Transpose {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
